@@ -62,3 +62,18 @@ The dataset contains customer-level information including:
 ---
 
 ## 📁 Project Structure
+customer-engagement-retention-analytics/
+│
+├── data/
+├── notebooks/
+├── app/
+├── report/
+├── requirements.txt
+└── README.md
+
+
+---
+
+## 👤 Author
+**Anmol Gupta**  
+Aspiring Data Scientist  
